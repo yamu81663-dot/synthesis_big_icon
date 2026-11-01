@@ -1,0 +1,45 @@
+{
+  "item": {
+    "id": "979890472499",
+    "restype": "watchface",
+    "name": "合成大icon",
+    "description": "本模块直接修改系统的应用列表，随机选取13个应用图标参与游戏\n如果想要恢复只需回到表盘点击[恢复]按钮\n可用固件:\n(小米手环9Pro:3.1.175  3.1.187  3.1.190)\n(小米手环10Pro:3.101.043)\n反馈/建议：338081614",
+    "preview": [
+      "media/e488d705c6a037c93bef310b2d20404c.jpg"
+    ],
+    "icon": "media/141C975B7A8DB38BD43524D80FB20A21.png",
+    "cover": "media/1BDA3E4976727EC824D072EF67F78361.jpg",
+    "author": [
+      {
+        "name": "bandbbs_2052034",
+        "bindABAccount": true
+      },
+      {
+        "name": "𝐰𝐮𝐝𝐢𝐛𝐥𝐮𝐬",
+        "bindABAccount": false
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "加入QQ群",
+      "url": "https://qm.qq.com/q/zpLTd6CqSQ",
+      "icon": "chat"
+    }
+  ],
+  "downloads": {
+    "xmb9p": {
+      "version": "1.10.0",
+      "file_name": "downloads/合成大icon-9Pro-175187190.bin",
+      "versionCode": 68096
+    },
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "downloads/合成大icon-10Pro-3.101.043.bin",
+      "versionCode": 65536
+    }
+  },
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
+}
